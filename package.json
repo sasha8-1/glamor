@@ -1,0 +1,6 @@
+{
+  "name": "glamor",
+  "version": "2.20.25",
+  "description": "inline css for component systems",
+  "main": "index.js"
+}
