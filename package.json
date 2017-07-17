@@ -3,7 +3,7 @@
   "version": "2.20.25",
   "description": "inline css for component systems",
   "main": "index.js",
-  "devDependencies": {
+  "dependencies": {
     "fbjs": "^0.8.8"
   }
 }
